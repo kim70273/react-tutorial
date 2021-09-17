@@ -1,4 +1,3 @@
-import { createStore } from 'redux';
 import { createAction, handleActions } from 'redux-actions';
 
 const INCREASE = 'counter/INCREASE';
